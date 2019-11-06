@@ -22,6 +22,7 @@ Linear regression of anomaly in net top-of-atmosphere flux vs. anomaly in surfac
 
 |parameter|description|units|
 |--|--|--|
+|*Model*|CMIP6 Source ID||
 |*F4x*|4xCO2 forcing (intercept)|W m<sup>-2</sup>|
 |*lambda*|climate feedback (slope)|W m<sup>-2 </sup>K<sup>-1</sup>|
 |*ECS*|effective climate sensitivity|K|
